@@ -1,0 +1,21 @@
+{
+	"author": "Vishwas Sharma",
+	"name": "hirevoice",
+	"description": "A simple hiring control application.",
+	"version": "0.0.1",
+	"homepage": "",
+	"repository": {
+		"type": "git@github.com:vishwassharma/hirevoice.git",
+		"url": "http://github.com/vishwassharma/hirevoice"
+	},
+	"engines": {
+		"node": "~0.6.10 || 0.8.x || 0.9.x"
+	},
+	"scripts": {
+		"start": "brunch watch --server"
+	},
+	"dependencies": {
+		"express" : "latest",
+		"jade" : "latest"
+	}
+}

@@ -24,3 +24,11 @@ This will be used to create and find good candidate in a useful manner.
 	
 	* Could be seen by candidate
 	* Could recommend candidate
+
+
+## Testing 
+
+- https://browserling.com
+- https://testling.com
+- https://travis-ci.org
+- [Yahoo design patterns](http://developer.yahoo.com/ypatterns/)
